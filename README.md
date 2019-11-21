@@ -1,5 +1,5 @@
 # LDR--Light-Depedent-Resistors
-Whenever the LDR senses the light on to it the LED is off and when it does not sense the light the LED is switched on
+Whenever the LDR senses the light on to it the LED is off and when it does not sense the light the LED is switched on.
 
 Software: Arduino IDE
 
@@ -10,7 +10,7 @@ HardWares required:
 4.Jumper wires
 5.Bread Board
 
-https://thingspeak.com/ - This is a website which is used for the analysis of the experiments done based on IOT(Internet of Things). Where in you can host your data or the putput and the behaviour of the experiment and access it anytime and anywhere
+https://thingspeak.com/ - This is a website which is used for the analysis of the experiments done based on IOT(Internet of Things). Where in you can host your data or the putput and the behaviour of the experiment and access it anytime and anywhere.
 
 Analysis of the LDR: https://thingspeak.com/channels/883762/private_show
 
