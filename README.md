@@ -17,6 +17,7 @@ Analysis of the LDR: https://thingspeak.com/channels/883762/private_show
 The above mentioned link is my thingspeak channel for LDR.
 
 Before you execute make sure you go through these steps:
+
 1.Thing speak account and a channel created in it
 
 2.Open the Arduino IDE and go to Sketch >>Include library >>Manage libraries and download and install "Thingspeak" and go to Tools >>Board >>Board Manager and download the "node MCU" board if you are using it or else search for the board which you are using make sure it has  wifi module imbuilt with it
