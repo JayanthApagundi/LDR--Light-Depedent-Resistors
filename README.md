@@ -10,13 +10,9 @@ Whenever the LDR senses the light on to it the LED is off and when it does not s
 4.Jumper wires
 5.Bread Board
 
-https://thingspeak.com/ - This is a website which is used for the analysis of the experiments done based on IOT(Internet of Things). Where in you can host your data or the putput and the behaviour of the experiment and access it anytime and anywhere.
+https://thingspeak.com/ - This is a website which is used for the analysis of the experiments done based on IOT(Internet of Things), Where in you can host your data or the output and examine the behaviour of the program to improve its performance.
 
-Analysis of the LDR: https://thingspeak.com/channels/883762/private_show
-
-The above mentioned link is my thingspeak channel for LDR.
-
-Before you execute make sure you go through these steps:
+**Steps to Execute:**
 
 1.Thing speak account and a channel created in it
 
