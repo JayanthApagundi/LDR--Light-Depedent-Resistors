@@ -1,9 +1,9 @@
 # LDR--Light-Depedent-Resistors
 Whenever the LDR senses the light on to it the LED is off and when it does not sense the light the LED is switched on.
 
-Software: Arduino IDE
+**Software:** Arduino IDE
 
-HardWares required:
+**HardWares required:**
 1.Node MCU
 2.LDR module
 3.10k ohm Resistor
