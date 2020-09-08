@@ -34,5 +34,5 @@ https://thingspeak.com/ - This is a website which is used for the analysis of th
 ![LDR](/Assets/2.jpg) <br>
 
 **LED(Light Emitting Diode):** <br>
-![LDR](/Assets/4.jpg)
+![LDR](/Assets/4.jfif)
 
