@@ -28,4 +28,4 @@ https://thingspeak.com/ - This is a website which is used for the analysis of th
 6. Connect to the respective WiFi and password mentioned in the code which your are using and compile the code.
 
 **Circuit:** <br>
-![Circuit](/Assets/1)
+![Circuit](/Assets/1.png)
