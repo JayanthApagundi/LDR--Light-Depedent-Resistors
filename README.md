@@ -31,4 +31,8 @@ https://thingspeak.com/ - This is a website which is used for the analysis of th
 ![Circuit](/Assets/3.JPG) <br>
 
 **LDR(Light Dependent Resistors):** <br>
-![LDR](/Assets/2.jpg)
+![LDR](/Assets/2.jpg) <br>
+
+**LED(Light Emitting Diode):** <br>
+![LDR](/Assets/4.jpg)
+
