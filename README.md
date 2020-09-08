@@ -3,12 +3,12 @@ Whenever the LDR senses the light on to it the LED is off and when it does not s
 
 **Software:** Arduino IDE
 
-**HardWares required:** <br>
-1.Node MCU <br>
-2.LDR module <br>
-3.10k ohm Resistor <br>
-4.Jumper wires <br>
-5.Bread Board <br>
+**Hardware required:** <br>
+ 1. Node MCU <br>
+ 2. LDR module <br>
+ 3. 10k ohm Resistor <br>
+ 4. Jumper wires <br>
+ 5. Bread Board <br>
 
 https://thingspeak.com/ - This is a website which is used for the analysis of the experiments done based on IOT(Internet of Things), Where in you can host your data or the output and examine the behaviour of the program to improve its performance.
 
